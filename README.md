@@ -42,9 +42,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 - The project makes use of the SRGAN architecture, inspired by the work of Ledig et al. (2017).
 - MTCNN is utilized for face detection, following the approach proposed by Zhang et al. (2016).
 - The Siamese Model implementation is based on the work of Bromley et al. (1994).
-
-## Contact
-
-For any inquiries or assistance, please contact [maintainer@email.com].
-
-Happy coding!
